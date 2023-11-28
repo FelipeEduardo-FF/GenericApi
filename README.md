@@ -1,4 +1,5 @@
 # GenericApi
-primeiro deve se alterar a string de conexão e rodar o comando update-database no console do gerenciador de pacotes
+<p>primeiro deve se alterar a string de conexão e rodar o comando update-database no console do gerenciador de pacotes</p>
 <br/>
-ControllerApi usando generic 
+<p>ControllerApi usando generic</p>
+
